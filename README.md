@@ -5,12 +5,10 @@ As a governance analyst it is part of your duties to assess the level of protect
 
 ### AIM: to crack as many passwords as possible with available tools (e.g. use Hashcat). 
  
-
 ## **PROJECT OBJECTIVE**:
-
-1.What type of hashing algorithm was used to protect passwords?
-2.What level of protection does the mechanism offer for passwords?
-3.What controls could be implemented to make cracking much harder for the hacker in the event of a password database leaking again?
-4.What can you tell about the organization’s password policy (e.g. password length, key space, etc.)?
-5.What would you change in the password policy to make breaking the passwords harder? 
+- 1.What type of hashing algorithm was used to protect passwords?
+- 2.What level of protection does the mechanism offer for passwords?
+- 3.What controls could be implemented to make cracking much harder for the hacker in the event of a password database leaking again?
+- 4.What can you tell about the organization’s password policy (e.g. password length, key space, etc.)?
+- 5.What would you change in the password policy to make breaking the passwords harder? 
 
